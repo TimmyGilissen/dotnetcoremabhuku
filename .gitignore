@@ -4,4 +4,7 @@ bin/
 obj/
 project.lock.json
 .DS_Store
-
+.idea
+node_modules/
+demo/**/*.css
+*.log
