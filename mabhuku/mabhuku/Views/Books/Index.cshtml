@@ -1,0 +1,35 @@
+@using System.Collections.Generic
+@using System.Threading.Tasks
+@using mabhuku.Models
+@model IEnumerable<BookModel>
+
+@{
+    ViewData["Title"] = "Books overview";    
+}
+<h2>Overview books</h2>
+<div class="ui two column grid">
+   <div class="column">
+      <div class="ui divided items">
+          @foreach(var item in Model){
+            <div class="item">
+              <div class="ui tiny image">
+                <img src="/images/wireframe/image.png">
+              </div>
+              <div class="middle aligned content @item.Id">
+                <div class="header">
+                  @item.Title
+                </div>
+                <div class="description">
+                  <p>@item.Description</p>
+                </div>
+                <div class="extra">
+                  <a href="@item.Link" target="_blank" class="ui right floated button">
+                   More info
+                  </a>
+                </div>
+              </div>
+            </div>
+            }
+      </div>
+   </div>
+</div>
