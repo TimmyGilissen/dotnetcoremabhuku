@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4927ffb8-a16f-4053-ae15-be2314146ca2" name="Default" comment="" />
+    <ignored path="mabhuku.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mabhuku" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="BooksController.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Controllers/BooksController.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
+                  <folding>
+                    <marker date="1470690274000" expanded="true" signature="6:179" ph="..." />
+                    <marker date="1470690274000" expanded="true" signature="210:1521" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="258:1519" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="388:429" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="467:623" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="677:739" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="808:1164" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="1221:1428" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="1360:1428" ph="{...}" />
+                    <marker date="1470690274000" expanded="true" signature="1466:1513" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GetBook.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Usecases/GetBook.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+                  <folding>
+                    <marker date="1470689557000" expanded="true" signature="6:69" ph="..." />
+                    <marker date="1470689557000" expanded="true" signature="97:324" ph="{...}" />
+                    <marker date="1470689557000" expanded="true" signature="122:322" ph="{...}" />
+                    <marker date="1470689557000" expanded="true" signature="213:318" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BookRepository.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Repositories/BookRepository.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="629">
+                  <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+                  <folding>
+                    <marker date="1470690508000" expanded="true" signature="6:77" ph="..." />
+                    <marker date="1470690508000" expanded="true" signature="109:974" ph="{...}" />
+                    <marker date="1470690508000" expanded="true" signature="143:972" ph="{...}" />
+                    <marker date="1470690508000" expanded="true" signature="190:405" ph="{...}" />
+                    <marker date="1470690508000" expanded="true" signature="452:719" ph="{...}" />
+                    <marker date="1470690508000" expanded="true" signature="767:966" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Add.cshtml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/Add.cshtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+                  <folding>
+                    <marker date="1470688479000" expanded="true" signature="7:71" ph="..." />
+                    <marker date="1470688479000" expanded="true" signature="104:145" ph="@..." />
+                    <marker date="1470688479000" expanded="true" signature="169:1068" ph="&lt;.../&gt;" />
+                    <marker date="1470688479000" expanded="true" signature="206:1061" ph="&lt;.../&gt;" />
+                    <marker date="1470688479000" expanded="true" signature="227:1054" ph="@..." />
+                    <marker date="1470688479000" expanded="true" signature="330:491" ph="&lt;.../&gt;" />
+                    <marker date="1470688479000" expanded="true" signature="504:650" ph="&lt;.../&gt;" />
+                    <marker date="1470688479000" expanded="true" signature="663:806" ph="&lt;.../&gt;" />
+                    <marker date="1470688479000" expanded="true" signature="819:976" ph="&lt;.../&gt;" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="detail.cshtml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/detail.cshtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+                  <folding>
+                    <marker date="1470689590000" expanded="true" signature="7:71" ph="..." />
+                    <marker date="1470689590000" expanded="true" signature="104:143" ph="@..." />
+                    <marker date="1470689590000" expanded="true" signature="167:932" ph="&lt;.../&gt;" />
+                    <marker date="1470689590000" expanded="true" signature="202:925" ph="&lt;.../&gt;" />
+                    <marker date="1470689590000" expanded="true" signature="227:916" ph="@..." />
+                    <marker date="1470689590000" expanded="true" signature="323:446" ph="&lt;.../&gt;" />
+                    <marker date="1470689590000" expanded="true" signature="453:578" ph="&lt;.../&gt;" />
+                    <marker date="1470689590000" expanded="true" signature="585:706" ph="&lt;.../&gt;" />
+                    <marker date="1470689590000" expanded="true" signature="713:848" ph="&lt;.../&gt;" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Edit.cshtml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/Edit.cshtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                  <folding>
+                    <marker date="1470689141000" expanded="true" signature="15:36" ph="@..." />
+                    <marker date="1470689141000" expanded="true" signature="55:136" ph="&lt;.../&gt;" />
+                    <marker date="1470689141000" expanded="true" signature="62:99" ph="&lt;.../&gt;" />
+                    <marker date="1470689141000" expanded="true" signature="100:128" ph="&lt;.../&gt;" />
+                    <marker date="1470689141000" expanded="true" signature="107:120" ph="&lt;.../&gt;" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Mapper.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Mappers/Mapper.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="544">
+                  <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+                  <folding>
+                    <marker date="1470689520000" expanded="true" signature="6:62" ph="..." />
+                    <marker date="1470689520000" expanded="true" signature="89:635" ph="{...}" />
+                    <marker date="1470689520000" expanded="true" signature="113:633" ph="{...}" />
+                    <marker date="1470689520000" expanded="true" signature="174:375" ph="{...}" />
+                    <marker date="1470689520000" expanded="true" signature="426:629" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GetAllBooks.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Usecases/GetAllBooks.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                  <folding>
+                    <marker date="1470689508000" expanded="true" signature="6:144" ph="..." />
+                    <marker date="1470689508000" expanded="true" signature="172:500" ph="{...}" />
+                    <marker date="1470689508000" expanded="true" signature="201:498" ph="{...}" />
+                    <marker date="1470689508000" expanded="true" signature="284:342" ph="{...}" />
+                    <marker date="1470689508000" expanded="true" signature="378:492" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AddBook.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Usecases/AddBook.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Controllers/HomeController.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="29" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="29" />
+                  <folding>
+                    <marker date="1469734836000" expanded="true" signature="62:594" ph="{...}" />
+                    <marker date="1469734836000" expanded="true" signature="109:592" ph="{...}" />
+                    <marker date="1469734836000" expanded="true" signature="152:199" ph="{...}" />
+                    <marker date="1469734836000" expanded="true" signature="237:357" ph="{...}" />
+                    <marker date="1469734836000" expanded="true" signature="397:501" ph="{...}" />
+                    <marker date="1469734836000" expanded="true" signature="539:586" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="BookModel.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Models/BookModel.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="VideoModel.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Models/VideoModel.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                  <folding>
+                    <marker date="1470686338000" expanded="true" signature="59:255" ph="{...}" />
+                    <marker date="1470686338000" expanded="true" signature="87:253" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/Index.cshtml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="578">
+                  <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+                  <folding>
+                    <marker date="1470689610000" expanded="true" signature="7:85" ph="..." />
+                    <marker date="1470689610000" expanded="true" signature="117:167" ph="@..." />
+                    <marker date="1470689610000" expanded="true" signature="192:1015" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="228:1008" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="255:998" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="296:985" ph="@..." />
+                    <marker date="1470689610000" expanded="true" signature="337:971" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="370:474" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="489:952" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="551:624" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="641:732" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="749:931" ph="&lt;.../&gt;" />
+                    <marker date="1470689610000" expanded="true" signature="787:908" ph="&lt;.../&gt;" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BookDto.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Dto/BookDto.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RatingModel.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../mabhuku/Models/RatingModel.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../mabhuku/Models/Model.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Domain/Book.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Domain/Rating.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/TagHelpers/MenuLinkTagHelper.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Meetup.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Program.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Startup.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Migrations/20160721201519_MyFirstMigration.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Migrations/20160721211007_AddedExtraField.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Migrations/20160721201519_MyFirstMigration.Designer.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Migrations/20160721211007_AddedExtraField.Designer.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/../mabhuku/Views/_ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/../mabhuku/bower.json" />
+        <option value="$PROJECT_DIR$/../mabhuku.domain/Book.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku.domain/project.json" />
+        <option value="$PROJECT_DIR$/../mabhuku/project.json" />
+        <option value="$PROJECT_DIR$/../mabhuku/mabhuku.xproj" />
+        <option value="$PROJECT_DIR$/../mabhuku/Models/DatabaseContext.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Migrations/DatabaseContextModelSnapshot.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Models/BookModel.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Models/RatingModel.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Domain/Video.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Models/VideoModel.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Application/AddBook.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Usecases/AddBookCommand.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Commands/AddBookCommand.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Usecases/AddBook.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Usecases/BookDto.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Dto/BookDto.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Controllers/Mapper.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Views/Books/Add.cshtml" />
+        <option value="$PROJECT_DIR$/../mabhuku/Views/Books/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/../mabhuku/Controllers/GetBook.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Usecases/GetAllBooks.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Mappers/Mapper.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Usecases/GetBook.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Views/Books/detail.cshtml" />
+        <option value="$PROJECT_DIR$/../mabhuku/Views/Books/Index.cshtml" />
+        <option value="$PROJECT_DIR$/../mabhuku/Controllers/BooksController.cs" />
+        <option value="$PROJECT_DIR$/../mabhuku/Repositories/BookRepository.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1369" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mabhuku" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mabhuku" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="term&#9;ACTION&#9;ActivateTerminalToolWindow" />
+  </component>
+  <component name="RunManager" selected=".NET Project.mabhuku">
+    <configuration default="false" name="mabhuku" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../mabhuku/mabhuku.xproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="EXE_PATH" value="/usr/local/share/dotnet/dotnet" />
+      <option name="PROGRAM_PARAMETERS" value="run" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../mabhuku" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.mabhuku" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.mabhuku" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4927ffb8-a16f-4053-ae15-be2314146ca2" name="Default" comment="" />
+      <created>1469733793601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469733793601</updated>
+      <workItem from="1469733795496" duration="644000" />
+      <workItem from="1469734514155" duration="2744000" />
+      <workItem from="1469737814393" duration="656000" />
+      <workItem from="1470685056140" duration="5477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9521000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1369" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14023438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet breakpoint">
+          <url>file://$PROJECT_DIR$/../mabhuku/Repositories/BookRepository.cs</url>
+          <line>31</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../mabhuku.domain/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1469734836000" expanded="true" signature="62:594" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="109:592" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="152:199" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="237:357" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="397:501" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="539:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/TagHelpers/MenuLinkTagHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Meetup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Migrations/20160721201519_MyFirstMigration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Migrations/20160721211007_AddedExtraField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku.domain/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku.domain/Rating.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku.domain/Video.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku.domain/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku.domain/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/mabhuku.xproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Models/Model.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Migrations/20160721201519_MyFirstMigration.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <marker date="1470685621000" expanded="true" signature="6:221" ph="..." />
+            <marker date="1470685621000" expanded="true" signature="251:2472" ph="{...}" />
+            <marker date="1470685621000" expanded="true" signature="380:2470" ph="{...}" />
+            <marker date="1470685621000" expanded="true" signature="453:2464" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Migrations/20160721211007_AddedExtraField.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <marker date="1470685621000" expanded="true" signature="6:221" ph="..." />
+            <marker date="1470685621000" expanded="true" signature="251:2526" ph="{...}" />
+            <marker date="1470685621000" expanded="true" signature="378:2524" ph="{...}" />
+            <marker date="1470685621000" expanded="true" signature="451:2518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Migrations/DatabaseContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/DBContext/DatabaseContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <marker date="1470685621000" expanded="true" signature="6:58" ph="..." />
+            <marker date="1470685621000" expanded="true" signature="87:403" ph="{...}" />
+            <marker date="1470685621000" expanded="true" signature="131:401" ph="{...}" />
+            <marker date="1470685621000" expanded="true" signature="337:398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Domain/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <marker date="1470685469000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1470685469000" expanded="true" signature="104:400" ph="{...}" />
+            <marker date="1470685469000" expanded="true" signature="128:398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Models/RatingModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Models/BookModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Domain/Rating.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <marker date="1470685474000" expanded="true" signature="70:397" ph="{...}" />
+            <marker date="1470685474000" expanded="true" signature="96:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Models/VideoModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1470686338000" expanded="true" signature="59:255" ph="{...}" />
+            <marker date="1470686338000" expanded="true" signature="87:253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Domain/Video.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1470685990000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1470685990000" expanded="true" signature="104:317" ph="{...}" />
+            <marker date="1470685990000" expanded="true" signature="129:315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Commands/AddBookCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <marker date="1470687397000" expanded="true" signature="26:226" ph="{...}" />
+            <marker date="1470687397000" expanded="true" signature="58:224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Usecases/AddBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <marker date="1469734836000" expanded="true" signature="62:594" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="109:592" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="152:199" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="237:357" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="397:501" ph="{...}" />
+            <marker date="1469734836000" expanded="true" signature="539:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Dto/BookDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1470689141000" expanded="true" signature="15:36" ph="@..." />
+            <marker date="1470689141000" expanded="true" signature="55:136" ph="&lt;.../&gt;" />
+            <marker date="1470689141000" expanded="true" signature="62:99" ph="&lt;.../&gt;" />
+            <marker date="1470689141000" expanded="true" signature="100:128" ph="&lt;.../&gt;" />
+            <marker date="1470689141000" expanded="true" signature="107:120" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/Add.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <marker date="1470688479000" expanded="true" signature="7:71" ph="..." />
+            <marker date="1470688479000" expanded="true" signature="104:145" ph="@..." />
+            <marker date="1470688479000" expanded="true" signature="169:1068" ph="&lt;.../&gt;" />
+            <marker date="1470688479000" expanded="true" signature="206:1061" ph="&lt;.../&gt;" />
+            <marker date="1470688479000" expanded="true" signature="227:1054" ph="@..." />
+            <marker date="1470688479000" expanded="true" signature="330:491" ph="&lt;.../&gt;" />
+            <marker date="1470688479000" expanded="true" signature="504:650" ph="&lt;.../&gt;" />
+            <marker date="1470688479000" expanded="true" signature="663:806" ph="&lt;.../&gt;" />
+            <marker date="1470688479000" expanded="true" signature="819:976" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Mappers/Mapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <marker date="1470689520000" expanded="true" signature="6:62" ph="..." />
+            <marker date="1470689520000" expanded="true" signature="89:635" ph="{...}" />
+            <marker date="1470689520000" expanded="true" signature="113:633" ph="{...}" />
+            <marker date="1470689520000" expanded="true" signature="174:375" ph="{...}" />
+            <marker date="1470689520000" expanded="true" signature="426:629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Usecases/GetAllBooks.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1470689508000" expanded="true" signature="6:144" ph="..." />
+            <marker date="1470689508000" expanded="true" signature="172:500" ph="{...}" />
+            <marker date="1470689508000" expanded="true" signature="201:498" ph="{...}" />
+            <marker date="1470689508000" expanded="true" signature="284:342" ph="{...}" />
+            <marker date="1470689508000" expanded="true" signature="378:492" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/detail.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <marker date="1470689590000" expanded="true" signature="7:71" ph="..." />
+            <marker date="1470689590000" expanded="true" signature="104:143" ph="@..." />
+            <marker date="1470689590000" expanded="true" signature="167:932" ph="&lt;.../&gt;" />
+            <marker date="1470689590000" expanded="true" signature="202:925" ph="&lt;.../&gt;" />
+            <marker date="1470689590000" expanded="true" signature="227:916" ph="@..." />
+            <marker date="1470689590000" expanded="true" signature="323:446" ph="&lt;.../&gt;" />
+            <marker date="1470689590000" expanded="true" signature="453:578" ph="&lt;.../&gt;" />
+            <marker date="1470689590000" expanded="true" signature="585:706" ph="&lt;.../&gt;" />
+            <marker date="1470689590000" expanded="true" signature="713:848" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Views/Books/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <marker date="1470689610000" expanded="true" signature="7:85" ph="..." />
+            <marker date="1470689610000" expanded="true" signature="117:167" ph="@..." />
+            <marker date="1470689610000" expanded="true" signature="192:1015" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="228:1008" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="255:998" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="296:985" ph="@..." />
+            <marker date="1470689610000" expanded="true" signature="337:971" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="370:474" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="489:952" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="551:624" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="641:732" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="749:931" ph="&lt;.../&gt;" />
+            <marker date="1470689610000" expanded="true" signature="787:908" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Controllers/BooksController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <marker date="1470690274000" expanded="true" signature="6:179" ph="..." />
+            <marker date="1470690274000" expanded="true" signature="210:1521" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="258:1519" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="388:429" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="467:623" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="677:739" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="808:1164" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="1221:1428" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="1360:1428" ph="{...}" />
+            <marker date="1470690274000" expanded="true" signature="1466:1513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Usecases/GetBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <marker date="1470689557000" expanded="true" signature="6:69" ph="..." />
+            <marker date="1470689557000" expanded="true" signature="97:324" ph="{...}" />
+            <marker date="1470689557000" expanded="true" signature="122:322" ph="{...}" />
+            <marker date="1470689557000" expanded="true" signature="213:318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mabhuku/Repositories/BookRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <marker date="1470690508000" expanded="true" signature="6:77" ph="..." />
+            <marker date="1470690508000" expanded="true" signature="109:974" ph="{...}" />
+            <marker date="1470690508000" expanded="true" signature="143:972" ph="{...}" />
+            <marker date="1470690508000" expanded="true" signature="190:405" ph="{...}" />
+            <marker date="1470690508000" expanded="true" signature="452:719" ph="{...}" />
+            <marker date="1470690508000" expanded="true" signature="767:966" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
